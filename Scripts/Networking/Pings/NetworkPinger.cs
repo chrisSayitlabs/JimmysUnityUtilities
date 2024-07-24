@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.NetworkInformation;
 using System.Threading.Tasks;
-using JimmysUnityUtilities.Threading;
+using JimmysUnityUtilities.Collections;
 
 namespace JimmysUnityUtilities.Networking.Pings
 {
